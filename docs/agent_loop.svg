@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600"><rect x="550" y="20" width="500" height="100" rx="18" fill="#F1F5FB" stroke="#64748B" stroke-width="3"/>
+<text x="800.0" y="70.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#172033">问题与有限对话历史</text>
+<rect x="550" y="205" width="500" height="120" rx="18" fill="#F1F5FB" stroke="#64748B" stroke-width="3"/>
+<text x="800.0" y="245.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#172033">模型选择白名单工具</text>
+<text x="800.0" y="294.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#475569">首次必须读取事实</text>
+<rect x="80" y="420" width="620" height="120" rx="18" fill="#F1F5FB" stroke="#64748B" stroke-width="3"/>
+<text x="390.0" y="460.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#172033">只读执行并回传 JSON</text>
+<text x="390.0" y="509.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#475569">绑定当前学习者编号</text>
+<rect x="930" y="420" width="590" height="120" rx="18" fill="#F1F5FB" stroke="#64748B" stroke-width="3"/>
+<text x="1225.0" y="460.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#172033">基于证据回答或继续</text>
+<text x="1225.0" y="509.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#475569">有轮数上限</text>
+<polyline points="800,120 800,205" fill="none" stroke="#475569" stroke-width="4"/>
+<polygon points="800,205 793.5350915424192,192.58207108109002 806.4649084575808,192.58207108109002" fill="#475569"/>
+<polyline points="650,325 650,365 390,365 390,420" fill="none" stroke="#475569" stroke-width="4"/>
+<polygon points="390,420 383.53509154241925,407.58207108109 396.46490845758075,407.58207108109" fill="#475569"/>
+<polyline points="700,480 930,480" fill="none" stroke="#475569" stroke-width="4"/>
+<polygon points="930,480 917.58207108109,486.46490845758075 917.58207108109,473.53509154241925" fill="#475569"/>
+<polyline points="1225,420 1225,265 1050,265" fill="none" stroke="#475569" stroke-width="4"/>
+<polygon points="1050,265 1062.41792891891,258.53509154241925 1062.41792891891,271.46490845758075" fill="#475569"/></svg>

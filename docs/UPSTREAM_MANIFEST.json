@@ -1,0 +1,14 @@
+{
+  "repository": "Arindam200/awesome-ai-apps",
+  "path": "memory_agents/study_coach_agent",
+  "commit": "4942dd3c6bf0e3e22c933a18965eb30fb070100c",
+  "files_sha256": {
+    "memory_utils.py": "ef007e13907bdd72b547b1e41b2c12cf6895dc8592ec9962500ba74245ca91f8",
+    "study_graph.py": "87c95cb517761f3fdb0dce276be26ce65c9c862f87a2d3b3adcda09e3ff65b9d",
+    "app.py": "84a0f563f0c5cd59b9201c6a57ee6910167b24780d4cf595495d7d3ff5a69d89",
+    "README.md": "1d5afc78ea0c74829c39fb286e19075a21eaa99b163cf8e5ad949f9d9d1161ec",
+    "pyproject.toml": "d9386ead06835406ca294445f14a8651b996fc5cfb0e4c1841e3e3b9616e0ad2",
+    ".streamlit/config.toml": "5b2002fe3542c6a8e67e52e198de62c82e28cc3203db0447dc5c2abba7d65c05",
+    "assets/Memori_Logo.png": "5e5b5e8c4d1425f00cb63f3857907e370b800fa234aa6d7ddd6cd2a7c638be2c"
+  }
+}

@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "study-coach-course"
+version = "1.0.0"
+description = "Study Coach teaching adaptation with LangGraph and inspectable memory"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+  "streamlit>=1.50,<2",
+  "openai>=2.6.1,<3",
+  "pydantic>=2.10,<3",
+  "python-dotenv>=1.0,<2",
+  "langgraph>=1.0,<2",
+  "pypdf>=6.0,<7",
+  "python-pptx>=1.0,<2",
+]
+
+[tool.setuptools]
+py-modules = ["config", "llm_gateway", "study_graph", "memory_utils", "coach_agent", "auth", "knowledge_store", "ppt_parser", "pdf_parser", "outline_generator"]

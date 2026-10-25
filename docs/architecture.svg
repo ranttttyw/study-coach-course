@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="880" viewBox="0 0 1600 880"><rect x="550" y="35" width="500" height="125" rx="18" fill="#F1F5FB" stroke="#64748B" stroke-width="3"/>
+<text x="800.0" y="77.5" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#172033">Streamlit 中文界面</text>
+<text x="800.0" y="126.5" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#475569">题目快照 · 当前会话 · 证据检查</text>
+<rect x="120" y="280" width="580" height="140" rx="18" fill="#F1F5FB" stroke="#64748B" stroke-width="3"/>
+<text x="410.0" y="330.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#172033">学习验证工作流</text>
+<text x="410.0" y="379.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#475569">LangGraph 按阶段生成或评分</text>
+<rect x="900" y="280" width="580" height="140" rx="18" fill="#F1F5FB" stroke="#64748B" stroke-width="3"/>
+<text x="1190.0" y="330.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#172033">进度问答单 Agent</text>
+<text x="1190.0" y="379.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#475569">选择工具 → 执行 → 回传结果</text>
+<rect x="120" y="620" width="580" height="140" rx="18" fill="#F0F8F3" stroke="#64748B" stroke-width="3"/>
+<text x="410.0" y="670.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#172033">模型适配层</text>
+<text x="410.0" y="719.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#475569">demo 流程模拟 / online 真实请求</text>
+<rect x="900" y="620" width="580" height="140" rx="18" fill="#F0F8F3" stroke="#64748B" stroke-width="3"/>
+<text x="1190.0" y="670.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#172033">SQLite 长期记忆</text>
+<text x="1190.0" y="719.0" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#475569">profiles 档案 / sessions 学习事件</text>
+<polyline points="660,160 660,220 410,220 410,280" fill="none" stroke="#475569" stroke-width="4"/>
+<polygon points="410,280 403.53509154241925,267.58207108109 416.46490845758075,267.58207108109" fill="#475569"/>
+<polyline points="940,160 940,220 1190,220 1190,280" fill="none" stroke="#475569" stroke-width="4"/>
+<polygon points="1190,280 1183.5350915424192,267.58207108109 1196.4649084575808,267.58207108109" fill="#475569"/>
+<polyline points="410,420 410,620" fill="none" stroke="#475569" stroke-width="4"/>
+<polygon points="410,620 403.53509154241925,607.58207108109 416.46490845758075,607.58207108109" fill="#475569"/>
+<text x="285" y="520" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#172033">出题和评分</text>
+<polyline points="1190,420 1190,620" fill="none" stroke="#475569" stroke-width="4"/>
+<polygon points="1190,620 1183.5350915424192,607.58207108109 1196.4649084575808,607.58207108109" fill="#475569"/>
+<text x="1300" y="520" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#172033">只读工具</text>
+<polyline points="900,385 790,385 790,570 630,570 630,620" fill="none" stroke="#475569" stroke-width="4"/>
+<polygon points="630,620 623.5350915424192,607.58207108109 636.4649084575808,607.58207108109" fill="#475569"/>
+<polyline points="700,350 750,350 750,800 1190,800 1190,760" fill="none" stroke="#475569" stroke-width="4"/>
+<polygon points="1190,760 1196.4649084575808,772.41792891891 1183.5350915424192,772.41792891891" fill="#475569"/>
+<text x="975" y="840" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans CJK SC, sans-serif" font-size="26" fill="#172033">提交后保存学习事件</text></svg>
